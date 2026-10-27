@@ -1,0 +1,9 @@
+{
+  "appId": "com.qmeng.texaspoker",
+  "appName": "Q萌德州扑克",
+  "webDir": "www",
+  "backgroundColor": "#8fdcff",
+  "android": {
+    "backgroundColor": "#8fdcff"
+  }
+}
